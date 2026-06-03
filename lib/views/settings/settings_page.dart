@@ -139,7 +139,7 @@ class _SettingsPageState extends State<SettingsPage> {
           const SizedBox(height: 12),
 
           // Cloud Integration Component Card Module
-          Card(
+          /*Card(
             child: Padding(
               padding: const EdgeInsets.all(16.0),
               child: Column(
@@ -154,7 +154,7 @@ class _SettingsPageState extends State<SettingsPage> {
                   ),
                   const Text('Export to Google Drive storage.', style: TextStyle(color: AppTheme.mutedText, fontSize: 12)),
                   const SizedBox(height: 16),
-                  SizedBox(
+                  /*SizedBox(
                     width: double.infinity,
                     height: 44,
                     child: ElevatedButton.icon(
@@ -172,12 +172,12 @@ class _SettingsPageState extends State<SettingsPage> {
                       icon: const Icon(Icons.cloud_upload_outlined, size: 18),
                       label: const Text('Backup to Google Drive', style: TextStyle(fontWeight: FontWeight.bold)),
                     ),
-                  )
+                  ) */
                 ],
               ),
             ),
-          ),
-          const SizedBox(height: 12),
+          ),*/
+          //const SizedBox(height: 12),
 
           // Diagnostic App Information Card
           Card(

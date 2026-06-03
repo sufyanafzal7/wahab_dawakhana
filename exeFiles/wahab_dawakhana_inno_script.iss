@@ -33,7 +33,7 @@ DisableProgramGroupPage=yes
 ; Uncomment the following line to run in non administrative install mode (install for current user only).
 ;PrivilegesRequired=lowest
 OutputDir=D:\Projects\wahab_dawakhana\exeFiles
-OutputBaseFilename=wahab_dawakhana_v1.2
+OutputBaseFilename=wahab_dawakhana_v1.3
 SetupIconFile=C:\Users\Omen\Downloads\file_type_flutter_icon_130599.ico
 SolidCompression=yes
 WizardStyle=modern dynamic
