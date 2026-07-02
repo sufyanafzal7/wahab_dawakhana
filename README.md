@@ -333,7 +333,7 @@ Priority | Feature Description | Target Deployment
 **Low** | Automatic Background Data Syncing when Connected to Wi-Fi Networks | v2.0.0
 
 👥 Contributors
-* **You** — Lead Systems Architect & App Developer (Building the platform for Dr. Wahab).
+* **Sufyan Afzal** — Lead Systems Architect & App Developer (Building the platform for Dr. Wahab).
 * **Dr. Wahab** — Primary Clinical Stakeholder & End-User (Providing design input and field validation rules for Wahab Dawakhana).
 
 ***
